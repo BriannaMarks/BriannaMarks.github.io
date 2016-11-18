@@ -1,3 +1,12 @@
-{background-color: pink; font-family: arial}
-div{background-color: #b3f471}
-p{color: #443c3c}
+div{
+	background-color: #bff688}
+p{
+	color: #443c3c}
+.header{
+	background: url(Forest.jpeg);
+	background-size: cover; min-height: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin: 20px;
+	
+}
